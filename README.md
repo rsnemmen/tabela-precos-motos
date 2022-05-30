@@ -12,4 +12,4 @@ Harley-Davidson
 | Modelo | Motor  | Preco (R$) |
 |--------|-------|-------|
 | Fat Boy 114      | 1868      |  115.000     |
-|  Pan America Special      | 1250      |  120.000     |
+|  Pan America Special      | 1250      |  143.800     |
