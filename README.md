@@ -5,7 +5,9 @@ Esta é uma tabela de preços de motos no Brasil colaborativa. Edite-a e atualiz
 
 # Marcas
 
-Harley-Davidson
+- [Harley-Davidson](#harley-davidson)
+- [Kawasaki](#kawasaki)
+- [Yamaha](#yamaha)
 
 # Harley-Davidson
 
