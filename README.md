@@ -1,7 +1,7 @@
 Tabela de preços de motos colaborativa
 ========================
 
-Esta é uma tabela de preços de motos no Brasil colaborativa. Edite-a e atualize com os últimos preços de motos que você ficar sabendo de fontes confiáveis. 
+Esta é uma tabela de preços de motos _novas_ no Brasil colaborativa. Edite-a e atualize com os últimos preços de motos que você ficar sabendo de fontes confiáveis. 
 
 # Marcas
 
